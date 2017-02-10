@@ -1,7 +1,7 @@
 from sklearn.datasets import fetch_20newsgroups
 import numpy as np
 import matplotlib.pyplot as plt
-import matplotlib.ticker as ticker
+import matplotlib.ticker as ticke
 
 
 #importing data
